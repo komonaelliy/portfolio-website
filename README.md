@@ -57,9 +57,9 @@ Building a portfolio that proves skills through **action**, not just words. Ever
 
 | Platform | Status | Progress |
 |----------|--------|----------|
-| 🟢 **HackTheBox** | Active | `[▓▓▓▓▓░░░░░] 50%` |
+| 🟢 **HackTheBox** | Active | `[▓▓▓▓░░░] 50%` |
 | 🟢 **TryHackMe** | Active | `[▓▓▓▓▓▓░░░░] 60%` |
-| 🔴 **CTF Competitions** | Participating | `[▓▓▓░░░░░░░] 30%` |
+| 🔴 **CTF Competitions** | Participating | `[▓▓▓▓▓▓▓▓▓░░] 80%` |
 | ⚡ **Bug Bounties** | Learning | `[▓▓░░░░░░░░] 20%` |
 
 </div>
@@ -185,14 +185,29 @@ npm start
 
 <div align="center">
 
+### 🌐 Active Member Of
+
+**Owlsec** • **p3rf3ctr00t** • **The CTFRoom** • **7h3h4ckv157**
 ```ascii
-┌─────────────────────────────────────────┐
-│  🦉 Owlsec Team Member                  │
-│  🏴 CTF Competition Participant         │
-│  📝 Active Technical Blogger            │
-│  🌐 Open Source Contributor             │
-│  💬 Cybersecurity Community Member      │
-└─────────────────────────────────────────┘
+╔═══════════════════════════════════════════════════╗
+║                                                   ║
+║  🦉 Owlsec Team Member                           ║
+║     └─ CTF Competitions & Team Collaboration     ║
+║                                                   ║
+║  🔴 p3rf3ctr00t Community                        ║
+║     └─ Advanced Penetration Testing Techniques   ║
+║                                                   ║
+║  🏴 The CTFRoom Community                        ║
+║     └─ CTF Challenges & Writeup Collaboration    ║
+║                                                   ║
+║  ⚡ 7h3h4ckv157 Community                         ║
+║     └─ Ethical Hacking & Security Research       ║
+║                                                   ║
+║  📝 Active Technical Blogger                      ║
+║  🌐 Open Source Contributor                       ║
+║  💬 Knowledge Sharing Advocate                    ║
+║                                                   ║
+╚═══════════════════════════════════════════════════╝
 ```
 
 </div>
