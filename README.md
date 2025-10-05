@@ -1,123 +1,60 @@
+
 # 🌐 PlayerKomona - Personal Tech Blog
 
 My personal website featuring CTF writeups, cybersecurity research, and technical blog posts.
 
 ## 🔗 Live Site
-[https://playerkomona.top](https://playerkomona.top)
+**[https://playerkomona.top](https://playerkomona.top)**
 
 ## 🛠️ Built With
-- [List your tech stack: Hugo/Jekyll/Next.js/etc.]
-- HTML/CSS/JavaScript
-- [Any frameworks used]
+- **React** - Frontend framework
+- **TypeScript** - Type-safe JavaScript
+- **HTML/CSS** - Markup and styling
+- **JavaScript** - Interactive functionality
 
 ## 📝 Features
-- CTF Writeups & Solutions
-- Security Research Articles
-- Technical Documentation
-- [Any other features]
+- 🏴 CTF Writeups & Solutions
+- 🔐 Security Research Articles
+- 📚 Technical Documentation & Tutorials
+- 💡 Cybersecurity Learning Journey
+- 🎯 Penetration Testing Methodologies
 
 ## 🚀 Local Development
+
 ```bash
-# Instructions to run locally
-[Add your commands here]
+# Clone the repository
+git clone https://github.com/komonaelliy/portfolio-website.git
 
+# Navigate to project directory
+cd portfolio-website
 
-📫 Contact
+# Install dependencies
+npm install
 
-Website: playerkomona.top
-LinkedIn: eli-muturi
+# Run development server
+npm start
 
+# Build for production
+npm run build
+```
 
-**Repository Settings:**
-- ✅ Add topics/tags: `cybersecurity`, `blog`, `ctf`, `writeups`, `portfolio`
-- ✅ Add description: "Personal cybersecurity blog featuring CTF writeups and security research"
-- ✅ Add website URL: https://playerkomona.top
-- ✅ Pin this repo to your profile!
+## 🎯 Topics Covered
+- Web Application Security
+- Network Penetration Testing
+- CTF Challenge Solutions
+- Cloud Security (AWS/Azure)
+- Python Security Scripting
+- Red Team Tactics
 
----
-
-## Step 3: Create New Repositories (Projects to Add)
-
-### 1. **Security Tools Collection**
-
-**Repository Name:** `security-automation-tools`
-
-**What to include:**
-- Python port scanner
-- Network reconnaissance scripts
-- Password strength checker
-- Any automation scripts you've written
-
-**README.md:**
-```markdown
-# 🔐 Security Automation Tools
-
-Collection of Python scripts for security testing and automation.
+## 📫 Contact
+- **Website:** [playerkomona.top](https://playerkomona.top)
+- **LinkedIn:** [eli-muturi](https://linkedin.com/in/eli-muturi)
+- **GitHub:** [komonaelliy](https://github.com/komonaelliy)
+- **Email:** Muturielliy@gmail.com
 
 ## ⚠️ Disclaimer
-These tools are for educational purposes and authorized testing only.
-
-## 🛠️ Tools
-
-### 1. Port Scanner
-Fast TCP port scanner written in Python
-```bash
-python port_scanner.py <target_ip> <start_port> <end_port>
-
-
-
-📋 Requirements
-
-
-bashpip install -r requirements.txt
-🎯 Usage
-[Instructions for each tool]
-⚖️ Legal Notice
-Only use on systems you own or have explicit permission to test.
+All security research and writeups are for educational purposes only. Always obtain proper authorization before testing systems.
 
 ---
 
-### 2. **CTF Solutions Repository**
-
-**Repository Name:** `ctf-writeups`
-
-**Structure:**
-ctf-writeups/
-├── HackTheBox/
-│   ├── Easy/
-│   │   ├── machine1/
-│   │   │   ├── README.md
-│   │   │   └── screenshots/
-│   ├── Medium/
-│   └── Hard/
-├── TryHackMe/
-│   ├── room1/
-│   └── room2/
-└── README.md
-
-**Main README.md:**
-```markdown
-# 🏴 CTF Writeups & Solutions
-
-My collection of Capture The Flag (CTF) challenge solutions and writeups.
-
-## 📊 Stats
-- **HackTheBox:** [X] machines solved
-- **TryHackMe:** [Y] rooms completed
-- **CTF Competitions:** [Z] participated
-
-## 🗂️ Repository Structure
-- `/HackTheBox` - HTB machine writeups
-- `/TryHackMe` - THM room solutions
-- `/Competitions` - CTF competition writeups
-
-## ⚠️ Spoiler Warning
-These writeups contain solutions. Try the challenges yourself first!
-
-## 🔗 My Profiles
-- HackTheBox: [your profile]
-- TryHackMe: [your profile]
-- Blog: [playerkomona.top](https://playerkomona.top)
-
-
-
+*Built with 💻 by Eli Muturi | Documenting my cybersecurity journey*
